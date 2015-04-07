@@ -39,7 +39,13 @@ site:ABC XYZ | search thing within the site ABC
 "X" OR "Y" | search two queries at once
 *YZ | use * for fuzzy search
 filetype:pdf | search by file type
+related:XYZ | find sites with similar content to a URL
 "XYZ" | search words in exact order
 2008...2010 | search within that range
 define:XYZ | show definition
+what time is it in XYZ | convert time zones
+convert 6:30px est to utc | time conversion
+apple vs orange | compare food
+convert cups to ounces | unit conversion
+
 
