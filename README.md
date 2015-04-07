@@ -10,9 +10,9 @@ My Cheat Sheets
 - [iTerm2](#iTerm2)
 - [Vim](#Vim)
 - [SVN](#SVN)
-- [Chrome](#Chrome)
 - [WebStorm](#WebStorm)
-- [Atom](#Atom)  
+- [Atom](#Atom)
+- [Chrome](#Chrome)  
 - [Google](#Google)
 
 ---
@@ -29,6 +29,20 @@ ctrl+u | clear all before cursor
 ctrl+k | clear all after cursor
 right option + Backspace | delete previous word
 !! | run previous command (ie `sudo !!`)
+
+# Chrome
+
+Command | Desc | Notes
+:--------|:------ | :------
+cmd+[ or delete | goes to the previous page in browsing history for the tab
+cmd+shift+delete | open the clear browsing data dialog
+cmd + shift + m | switch between users
+cmd + l | highlights the url
+cmd + shift + f | open page in full screen
+cmd + option + f | search the web
+cmd + shift + option + v  | paste without formatting
+
+
 
 # Google
 
