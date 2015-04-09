@@ -29,6 +29,11 @@ ctrl+u | clear all before cursor
 ctrl+k | clear all after cursor
 right option + Backspace | delete previous word
 !! | run previous command (ie `sudo !!`)
+ls -l | list long 
+ls -a | list all
+ls [path] | list in path
+* | wildcard
+
 
 # Chrome
 
