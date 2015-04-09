@@ -35,6 +35,7 @@ ls [path] | list in path
 * | wildcard
 echo XXX > somefile | create or redirect output to a file
 echo XXX >> somefile | append information
+grep 'somestring' somefile (and) less | show output in less mode
 
 
 # Chrome
