@@ -33,6 +33,8 @@ ls -l | list long
 ls -a | list all
 ls [path] | list in path
 * | wildcard
+echo XXX > somefile | create or redirect output to a file
+echo XXX >> somefile | append information
 
 
 # Chrome
