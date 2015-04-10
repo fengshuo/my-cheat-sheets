@@ -37,6 +37,19 @@ echo XXX > somefile | create or redirect output to a file
 echo XXX >> somefile | append information
 grep 'somestring' somefile (and) less | show output in less mode
 
+# Zsh
+
+# Git
+
+# iTerm2
+
+# Vim
+
+# SVN
+
+Command | Desc | Notes
+:--------|:------ | :------
+svn propset svn:ignore bin . | [ignore directory | svn propset svn:ignore /bin . # nope svn propset svn:ignore bin/ . # nope](http://superchlorine.com/2013/08/getting-svn-to-ignore-files-and-directories/)
 
 # Chrome
 
