@@ -49,7 +49,7 @@ grep 'somestring' somefile (and) less | show output in less mode
 
 Command | Desc | Notes
 :--------|:------ | :------
-svn propset svn:ignore bin . | [ignore directory | svn propset svn:ignore /bin . # nope svn propset svn:ignore bin/ . # nope](http://superchlorine.com/2013/08/getting-svn-to-ignore-files-and-directories/)
+svn propset svn:ignore bin . | ignore directory | [svn propset svn:ignore /bin . # nope svn propset svn:ignore bin/ . # nope](http://superchlorine.com/2013/08/getting-svn-to-ignore-files-and-directories/)
 
 # Chrome
 
