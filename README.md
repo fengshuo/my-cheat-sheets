@@ -41,6 +41,10 @@ grep 'somestring' somefile (and) less | show output in less mode
 
 # Git
 
+Command | Desc | Notes
+:--------|:------ | :------
+git rm -r --cached . | clean cached files after updating gitignore
+ 
 # iTerm2
 
 # Vim
