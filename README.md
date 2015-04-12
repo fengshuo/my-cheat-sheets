@@ -47,9 +47,9 @@ git rm -r --cached . | clean cached files after updating gitignore
 git branch -D mybranch | delete local branch
 git push origin --delete [branch-name] | delete remote branch
 git remote rm origin | remove origin
-git remote add upstream [url] / git fetch upstream / git checkout master / git merge upstream/master | update forked repo
-git tag -a v1.1.1 -m "add tag" / git push origin v1.1.1 | add tag to repo
-git tag -d 1.1.1 / git push origin :refs/tags/1.1.1 | delete tag
+git remote add upstream [url] // git fetch upstream // git checkout master // git merge upstream/master | update forked repo
+git tag -a v1.1.1 -m "add tag" // git push origin v1.1.1 | add tag to repo
+git tag -d 1.1.1 // git push origin :refs/tags/1.1.1 | delete tag
  
 # iTerm2
 
