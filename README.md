@@ -61,6 +61,20 @@ Command | Desc | Notes
 :--------|:------ | :------
 svn propset svn:ignore bin . | ignore directory | [svn propset svn:ignore /bin . # nope svn propset svn:ignore bin/ . # nope](http://superchlorine.com/2013/08/getting-svn-to-ignore-files-and-directories/)
 
+# WebStorm
+
+Command | Desc | Notes
+:--------|:------ | :------
+alt + F12 | toggle terminal
+cmd + option + / | comment/uncomment with block comment
+cmd + D | duplicate current line or selected block
+cmd + backspace | delete line at caret
+cmd + enter | split lines
+cmd +, cmd - | expand or collapse code black
+cmd + shift + +, cmd + shift + - | expand or collapse all
+ctrl + tab | switch between the tool windows and files opened
+
+
 # Chrome
 
 Command | Desc | Notes
