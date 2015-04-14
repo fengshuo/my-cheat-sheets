@@ -113,5 +113,5 @@ convert cups to ounces | unit conversion
 Command | Desc | Notes
 :--------|:------ | :------
 
-`defaults write com.apple.finder AppleShowAllFiles YES` and `killall Finder` | Show hidden files on Mac | change to FALSE to hide
+defaults write com.apple.finder AppleShowAllFiles YES  | Show hidden files on Mac, use killall Finder to relaunch | change to FALSE to hide
 
