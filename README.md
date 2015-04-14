@@ -14,6 +14,7 @@ My Cheat Sheets
 - [Atom](#Atom)
 - [Chrome](#Chrome)  
 - [Google](#Google)
+- [Mac OS](#Mac OS)
 
 ---
 
@@ -107,4 +108,10 @@ convert 6:30px est to utc | time conversion
 apple vs orange | compare food
 convert cups to ounces | unit conversion
 
+# Mac OS
+
+Command | Desc | Notes
+:--------|:------ | :------
+
+`defaults write com.apple.finder AppleShowAllFiles YES` and `killall Finder` | Show hidden files on Mac | change to FALSE to hide
 
