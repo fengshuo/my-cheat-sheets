@@ -74,6 +74,7 @@ cmd + enter | split lines
 cmd +, cmd - | expand or collapse code black
 cmd + shift + +, cmd + shift + - | expand or collapse all
 ctrl + tab | switch between the tool windows and files opened
+alt+f6+(fn) | rename a file
 
 # Atom
 
