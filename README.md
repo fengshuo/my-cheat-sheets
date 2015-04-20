@@ -14,11 +14,11 @@ My Cheat Sheets
 - [Atom](#Atom)
 - [Chrome](#Chrome)  
 - [Google](#Google)
-- [Mac OS](#Mac OS)
+- [Mac OS](#MacOS)
 
 ---
 
-# Bash
+#Bash
 
 Command | Desc | Notes
 :--------|:------ | :------
@@ -38,9 +38,9 @@ echo XXX > somefile | create or redirect output to a file
 echo XXX >> somefile | append information
 grep 'somestring' somefile (and) less | show output in less mode
 
-# Zsh
+#Zsh
 
-# Git
+#Git
 
 Command | Desc | Notes
 :--------|:------ | :------
@@ -52,17 +52,17 @@ git remote add upstream [url] // git fetch upstream // git checkout master // gi
 git tag -a v1.1.1 -m "add tag" // git push origin v1.1.1 | add tag to repo
 git tag -d 1.1.1 // git push origin :refs/tags/1.1.1 | delete tag
  
-# iTerm2
+#iTerm2
 
-# Vim
+#Vim
 
-# SVN
+#SVN
 
 Command | Desc | Notes
 :--------|:------ | :------
 svn propset svn:ignore bin . | ignore directory | [svn propset svn:ignore /bin . # nope svn propset svn:ignore bin/ . # nope](http://superchlorine.com/2013/08/getting-svn-to-ignore-files-and-directories/)
 
-# WebStorm
+#WebStorm
 
 Command | Desc | Notes
 :--------|:------ | :------
@@ -92,7 +92,7 @@ cmd + shift + option + v  | paste without formatting
 
 
 
-# Google
+#Google
 
 Command | Desc | Notes
 :--------|:------ | :------
@@ -110,9 +110,10 @@ convert 6:30px est to utc | time conversion
 apple vs orange | compare food
 convert cups to ounces | unit conversion
 
-# Mac OS
+#MacOS
 
 Command | Desc | Notes
 :--------|:------ | :------
 `defaults write com.apple.finder AppleShowAllFiles YES` and `killall Finder` | Show hidden files on Mac | change to FALSE to hide
-
+Command-Control-Shift-3 | Take a screenshot of the screen, and save it to the clipboard
+Command-Control-Shift-4 | 
