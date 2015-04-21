@@ -93,6 +93,7 @@ cmd + l | highlights the url
 cmd + shift + f | open page in full screen
 cmd + option + f | search the web
 cmd + shift + option + v  | paste without formatting
+cmd + shift + backspace | open clean data window
 
 
 
