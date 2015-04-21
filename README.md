@@ -78,6 +78,10 @@ alt+f6+(fn) | rename a file
 
 # Atom
 
+Command | Desc | Notes
+:--------|:------ | :------
+cmd+shift+p | search box
+
 # Chrome
 
 Command | Desc | Notes
