@@ -81,6 +81,7 @@ alt+f6+(fn) | rename a file
 Command | Desc | Notes
 :--------|:------ | :------
 cmd+shift+p | search box
+ctrl+shift+arrow(up/down) | multiple lines selection
 
 # Chrome
 
