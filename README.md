@@ -95,7 +95,7 @@ cmd + shift + f | open page in full screen
 cmd + option + f | search the web
 cmd + shift + option + v  | paste without formatting
 cmd + shift + backspace | open clean data window
-
+cmd + shift + m with dev tool open | full screen window, which is useful in mobile debug mode 
 
 
 #Google
