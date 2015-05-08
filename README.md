@@ -75,6 +75,7 @@ cmd +, cmd - | expand or collapse code black
 cmd + shift + +, cmd + shift + - | expand or collapse all
 ctrl + tab | switch between the tool windows and files opened
 alt+f6+(fn) | rename a file
+live edit with external files | [link](http://stackoverflow.com/questions/28802922/phpstorm-live-edit-not-working-with-external-css-and-js-files)
 
 # Atom
 
