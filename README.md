@@ -39,6 +39,8 @@ echo XXX >> somefile | append information
 grep 'somestring' somefile (and) less | show output in less mode
 
 #Zsh
+Command | Desc | Notes
+:--------|:------ | :------
 
 #Git
 
@@ -53,8 +55,13 @@ git tag -a v1.1.1 -m "add tag" // git push origin v1.1.1 | add tag to repo
 git tag -d 1.1.1 // git push origin :refs/tags/1.1.1 | delete tag
  
 #iTerm2
+Command | Desc | Notes
+:--------|:------ | :------
 
 #Vim
+
+Command | Desc | Notes
+:--------|:------ | :------
 
 #SVN
 
