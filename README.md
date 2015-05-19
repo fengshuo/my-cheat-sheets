@@ -71,8 +71,8 @@ svn propset svn:ignore bin . | ignore directory | [svn propset svn:ignore /bin .
 
 #WebStorm
 
-Command | Desc | Notes
-:--------|:------ | :------
+Command | Desc 
+:--------|:------ 
 alt + F12 | toggle terminal
 cmd + option + / | comment/uncomment with block comment
 cmd + D | duplicate current line or selected block
