@@ -5,7 +5,6 @@ My Cheat Sheets
 ---
 
 - [Bash](#Bash)
-- [Zsh](#Zsh)
 - [Git](#Git)
 - [iTerm2](#iTerm2)
 - [Vim](#Vim)
@@ -38,9 +37,6 @@ echo XXX > somefile | create or redirect output to a file
 echo XXX >> somefile | append information
 grep 'somestring' somefile (and) less | show output in less mode
 
-#Zsh
-Command | Desc | Notes
-:--------|:------ | :------
 
 #Git
 
