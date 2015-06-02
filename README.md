@@ -49,6 +49,7 @@ git remote rm origin | remove origin
 git remote add upstream [url] // git fetch upstream // git checkout master // git merge upstream/master | update forked repo
 git tag -a v1.1.1 -m "add tag" // git push origin v1.1.1 | add tag to repo
 git tag -d 1.1.1 // git push origin :refs/tags/1.1.1 | delete tag
+git push -u origin feature_branch_name | push local branch and track it too
  
 #iTerm2
 
