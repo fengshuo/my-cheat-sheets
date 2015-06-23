@@ -51,7 +51,8 @@ git tag -a v1.1.1 -m "add tag" // git push origin v1.1.1 | add tag to repo
 git tag -d 1.1.1 // git push origin :refs/tags/1.1.1 | delete tag
 git push -u origin feature_branch_name | push local branch and track it too
 git stash clear | clear all stashes
- 
+git tag -l -n9 or git tag -n | list all the tags along with annotations & 9 lines(or 1 line) of message for every tag  
+
 #iTerm2
 
 
