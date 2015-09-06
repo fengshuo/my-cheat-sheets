@@ -83,7 +83,19 @@ ctrl + tab | switch between the tool windows and files opened
 alt+f6+(fn) | rename a file
 live edit with external files | [link](http://stackoverflow.com/questions/28802922/phpstorm-live-edit-not-working-with-external-css-and-js-files)
 cmd + L | jump to line
-
+cmd + f12( + fn) | file structure pop-up
+cmd + e | recent opened files
+shift + cmd  + e | recent updated files
+cmd + o | navigate to class
+shift + cmd + o | navigate to file
+cmd + b | navigate to declaration
+opt + cmd + [ | navigate to the start of opening brace
+opt + cmd + ] | navigate to the end of the current code block
+cmd + [ | undo last navigation operation
+cmd + ] | redo last navigation operation
+opt + cmd + arrowUp/arrowDown | navigate to a previous/next found item
+shift + cmd + del | go to last edit location
+ 
 # Atom
 
 Command | Desc | Notes
