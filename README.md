@@ -103,6 +103,19 @@ cmd + option + f | search the web
 cmd + shift + option + v  | paste without formatting
 cmd + shift + backspace | open clean data window
 
+# Chrome Dev Tool
+
+Command | Desc | Notes
+:--------|:------ | :------
+cmd + shift + c | Open / switch from inspect element mode and browser window
+cmd + opt + j | Open Developer Tools and bring focus to the console
+? | show general settings dialog
+ctrl + ] / ctrl + [ | next panel / prev panel
+cmd + shift + d  | change docking location
+cmd + shift + m | open device mode
+text search across all sources | cmd + opt + f
+search by filename  | cmd + o
+(device mode) pinch zoom in and out | shift + scroll
 
 
 #Google
