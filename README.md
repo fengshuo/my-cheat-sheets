@@ -73,6 +73,7 @@ svn propset svn:ignore bin . | ignore directory | [svn propset svn:ignore /bin .
 Command | Desc 
 :--------|:------ 
 alt + F12 | toggle terminal
+cmd + 1 | toggle project view
 cmd + option + / | comment/uncomment with block comment
 cmd + D | duplicate current line or selected block
 cmd + backspace | delete line at caret
