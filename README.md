@@ -96,6 +96,13 @@ cmd + [ | undo last navigation operation
 cmd + ] | redo last navigation operation
 opt + cmd + arrowUp/arrowDown | navigate to a previous/next found item
 shift + cmd + del | go to last edit location
+opt + f1 (+fn) | switch between views
+cmd + shift + A | find action
+cmd + shift + o | open/navaigate file
+cmd + arrowUp | navigation bar
+cmd + 6 | todo
+cmd+ 9 | changes
+
  
 # Atom
 
