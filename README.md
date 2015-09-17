@@ -102,6 +102,8 @@ cmd + shift + o | open/navaigate file
 cmd + arrowUp | navigation bar
 cmd + 6 | todo
 cmd+ 9 | changes
+navigate to file | shift + cmd + o
+navigate to symbol | cmd + o
 
  
 # Atom
