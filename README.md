@@ -53,6 +53,7 @@ git push -u origin feature_branch_name | push local branch and track it too
 git stash clear | clear all stashes
 git tag -l -n9 or git tag -n | list all the tags along with annotations & 9 lines(or 1 line) of message for every tag  
 git remote set-url origin git://new.url.here | change origin url
+git remote add all git://original/repo.git | git add multiple remote
 
 #iTerm2
 
