@@ -44,7 +44,7 @@ Command | Desc | Notes
 :--------|:------ | :------
 git rm -r --cached . | clean cached files after updating gitignore
 git branch -D mybranch | delete local branch
-git push origin --delete [branch-name] | delete remote branch
+git push origin :{remote_branch} | delete remote branch
 git remote rm origin | remove origin
 git remote add upstream [url] // git fetch upstream // git checkout master // git merge upstream/master | update forked repo
 git tag -a v1.1.1 -m "add tag" // git push origin v1.1.1 | add tag to repo
