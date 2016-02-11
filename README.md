@@ -1,6 +1,8 @@
 My Cheat Sheets
 ==========
 
+Will be replaced by Dash [customized cheatsheet](https://github.com/Kapeli/cheatset) soon
+
 # Table of Contents
 ---
 
