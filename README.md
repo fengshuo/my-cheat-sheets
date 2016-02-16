@@ -1,7 +1,13 @@
 My Cheat Sheets
 ==========
 
-Will be replaced by Dash [customized cheatsheet](https://github.com/Kapeli/cheatset) soon
+Will be replaced by Dash [customized cheatsheet](https://github.com/Kapeli/cheatset) soon.  
+
+[Install](https://github.com/Kapeli/cheatset)
+
+
+Generate:   
+`$ cheatset generate sample.rb`
 
 # Table of Contents
 ---
