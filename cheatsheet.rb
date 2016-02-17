@@ -217,15 +217,142 @@ cheatsheet do
     id 'EverNote'
 
     entry do
-      command 'CMD+N'
-      command 'CMD+SHIFT+N'
-      name 'Create window'
-      notes 'Some notes'
+      command 'cmd + n'
+      command 'ctrl + cmd + n'
+      command 'cmd + shift + n'
+      name 'create a new note'
+      name 'create a quick note'
+      name 'create a new notebook'
     end
+
     entry do
-      command 'CMD+W'
-      name 'Close window'
+      command 'shift + cmd + t'
+      name 'insert a to-do item'
     end
+
+    entry do
+      command 'shift + cmd + l'
+      name 'insert a table'
+    end
+
+    entry do
+      command 'shift + cmd + h'
+      name 'insert a horizontal line'
+    end
+
+    entry do
+      command 'shift + cmd + u/o'
+      name 'toggle bullet points or numbered lists'
+    end
+
+    entry do
+      command 'cmd + upper comma'
+      name 'edit tags'
+    end
+
+    entry do
+      command 'cmd + l'
+      name 'edit title'
+    end
+
+    entry do
+      command 'cmd + k'
+      command 'shift + cmd + k'
+      name 'add a hyper link'
+      name 'remove a hyper link'
+    end
+
+    entry do
+      command 'ctrl + cmd + m'
+      name 'choose a notebook for selected notes'
+    end
+
+    entry do
+      command 'ctrl + cmd + e'
+      name 'activate search in evernote'
+    end
+
+    entry do
+      command 'opt + cmd + 1/2/3/4'
+      name 'access notes/notebooks/tags/atlas'
+    end
+
+    entry do
+      command 'shift + cmd + i'
+      name 'show/hide note information'
+    end
+
+
+
+
+
+
+    entry do
+      command 'intitle:keyword'
+      name 'search for notes whose title contains keyword'
+    end
+
+    entry do
+      command 'notebook:keyword'
+      name 'only search for notes within the keyword notebook'
+    end
+
+    entry do
+      command 'tag:keyword'
+      command '-tag:keyword'
+      name 'return notes with tag'
+      name 'return notes without tag'
+    end
+
+    entry do
+      command 'created:day-2'
+      command 'created:20150105'
+      name 'return notes that were created in the last 2 days, or on/after date'
+    end
+
+    entry do
+      command 'updated:day-2'
+      name 'notes that have been updated in the last 2 days'
+    end
+
+    entry do
+      command 'resource:application/pdf'
+      command 'resource:image/jpeg'
+      command 'resource:audio/*'
+      name 'search for notes that contain specific types of media'
+    end
+
+    entry do
+      command 'created:day-2'
+      command 'created:20150105'
+      name 'return notes that were created in the last 2 days, or on/after date'
+    end
+
+    entry do
+      command 'updated:day-2'
+      name 'notes that have been updated in the last 2 days'
+    end
+
+    entry do
+      command 'source:mobile.*'
+      command 'source:web.clip'
+      name 'return notes created by specific types of media'
+    end
+
+    entry do
+      command 'todo:true'
+      command 'todo:false'
+      command 'todo:*'
+      name 'return notes with checkbox'
+    end
+
+    entry do
+      command 'encryption'
+      name 'return notes with encryption'
+    end
+
+
+
   end
 
   #################
