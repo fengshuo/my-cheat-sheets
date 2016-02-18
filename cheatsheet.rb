@@ -283,8 +283,15 @@ cheatsheet do
     end
 
 
+    entry do
+      command 'shift + cmd + d'
+      name 'insert date'
+    end
 
-
+    entry do
+      command 'opt + shift + cmd + d'
+      name 'insert time'
+    end
 
 
     entry do
