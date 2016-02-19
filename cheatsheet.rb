@@ -210,6 +210,32 @@ cheatsheet do
   end
 
   #################
+  # ZSH
+  #################
+  category do
+    id 'zsh'
+
+    entry do
+      command 'ctrl + u'
+      name 'clear entire line'
+    end
+
+  end
+
+  #################
+  # iTerm2
+  #################
+  category do
+    id 'zsh'
+
+    entry do
+      command 'ctrl + u'
+      name 'clear entire line'
+    end
+
+  end
+
+  #################
   # EverNote
   #################
 
@@ -263,8 +289,23 @@ cheatsheet do
     end
 
     entry do
+      command 'ctrl + cmd + k'
+      name 'strike through text'
+    end
+
+    entry do
       command 'ctrl + cmd + m'
       name 'choose a notebook for selected notes'
+    end
+
+    entry do
+      command 'ctrl + cmd + s'
+      name 'sync'
+    end
+
+    entry do
+      command 'opt + cmd + s'
+      name 'toggle sidebar'
     end
 
     entry do
