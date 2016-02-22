@@ -155,6 +155,11 @@ cheatsheet do
     end
 
     entry do
+      command 'cmd + opt + d'
+      name 'show/hide docker'
+    end    
+
+    entry do
       command 'cmd + shift + g'
       name 'while a fineder window is open, this shortcut key can open a direct line'
     end
@@ -196,15 +201,8 @@ cheatsheet do
     id 'WebStorm'
 
     entry do
-      command 'CMD+N'
-      command 'CMD+SHIFT+N'
-      name 'Create window'
-      notes 'Some notes'
-    end
-
-    entry do
-      command 'cmd + opt + h'
-      name 'Hide all other windows'
+      command 'opt + f12 (+ fn)'
+      name 'toggle embedded terminal'
     end
 
   end
@@ -411,14 +409,8 @@ cheatsheet do
     id 'Alfred'
 
     entry do
-      command 'CMD+N'
-      command 'CMD+SHIFT+N'
-      name 'Create window'
-      notes 'Some notes'
-    end
-    entry do
-      command 'CMD+W'
-      name 'Close window'
+      command 'opt + cmd + backslash'
+      name 'list file actions on current selected file'
     end
   end
 
