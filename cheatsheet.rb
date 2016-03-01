@@ -205,6 +205,108 @@ cheatsheet do
       name 'toggle embedded terminal'
     end
 
+    entry do
+      command 'select next/prev tab'
+      name 'cmd + shift + [ or ]'
+    end
+
+    entry do
+      command 'place caret on it and press cmd + B'
+      name 'navigate to declaration'
+    end
+
+    entry do
+      command 'cmd + f12 + (fn)'
+      name 'show file structure'
+    end
+
+    entry do
+      command 'shift + cmd + v'
+      name 'Paste from clipboard history'
+    end
+
+    entry do
+      command 'cmd + Page down(fn + down arrow)'
+      name 'Go to current page bottom'
+    end
+
+    entry do
+      command 'shift + cmd + u'
+      name 'toggle case'
+    end
+
+    entry do
+      command 'opt + cmd + [ or ]'
+      name 'move to code block start/end'
+    end
+
+    entry do
+      command 'shift + enter'
+      name 'start a new line with the current indentation level'
+    end
+
+    entry do
+      command 'opt + shift + enter'
+      name 'start a new line before current one'
+    end
+
+    entry do
+      command 'cmd + p'
+      name 'show parameters of the method call at the caret'
+    end
+
+    entry do
+      command 'opt + f1 + (fn)'
+      name 'select targets to move between IDE Components'
+    end
+
+    entry do
+      command 'ctrl + tab'
+      name 'switcher'
+    end
+
+    entry do
+      command 'cmd + e'
+      name 'recent files'
+    end
+
+    entry do
+      command 'cmd + shift + e'
+      name 'recent updated files'
+    end
+
+    entry do
+      command 'shift + cmd + o'
+      name 'navigate to file'
+    end
+
+    entry do
+      command 'cmd + b'
+      name 'navigate to declaration'
+    end
+
+    entry do
+      command 'opt + cmd + b'
+      name 'navigate to implementation'
+    end
+
+    entry do
+      command 'cmd + ['
+      name 'undo last navigation operation'
+    end
+
+    entry do
+      command 'cmd + ]'
+      name 'redo last navigation operation'
+    end
+
+    entry do
+      command 'shift + cmd + backspace'
+      name 'last edit location'
+    end
+
+
+
   end
 
   #################
