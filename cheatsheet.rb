@@ -206,8 +206,13 @@ cheatsheet do
     end
 
     entry do
-      command 'select next/prev tab'
-      name 'cmd + shift + [ or ]'
+      command 'cmd + shift + [ or ]'
+      name 'select next/prev tab, also applies to terminal tab'
+    end
+
+    entry do
+      command 'opt + mouse click'
+      name 'add caret'
     end
 
     entry do
@@ -246,7 +251,7 @@ cheatsheet do
     end
 
     entry do
-      command 'opt + shift + enter'
+      command 'opt + cmd + enter'
       name 'start a new line before current one'
     end
 
@@ -304,6 +309,32 @@ cheatsheet do
       command 'shift + cmd + backspace'
       name 'last edit location'
     end
+
+    entry do
+      command 'ctrl + opt + cmd + r/l'
+      name 'move tab right or down'
+    end
+
+    entry do
+      command 'ctrl + opt + cmd + v/h'
+      name 'split tab vertically or horizontally'
+    end
+
+    entry do
+      command 'opt + enter'
+      name 'show the list of available intention actions'
+    end
+
+    entry do
+      command 'cmd + arrow up'
+      name 'show the navigation bar'
+    end
+
+    entry do
+      command 'f4 + (fn)'
+      name 'open editor for selected item'
+    end
+
 
 
 
